@@ -2,6 +2,7 @@ class Product {
 	
 	private String name = "Coca Cola";
 	private float prise;
+	private boolean onStock = true;
 	
 	Product() {
 	}
