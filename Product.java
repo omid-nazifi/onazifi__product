@@ -1,6 +1,7 @@
 class Product {
 	
 	private String name = "Coca Cola";
+	private float prise;
 	
 	Product() {
 	}

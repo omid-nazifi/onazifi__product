@@ -1,6 +1,6 @@
 class Company {
 	
-	private ArrayList products;
+	private LinkedList products;
 	private String name = "IBM";
 	
 	Company() {
