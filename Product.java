@@ -8,7 +8,7 @@ class Product {
 	
 	
 	public String getName() {
-		return this.name;
+		return this.name; 
 	}
 	
 	public void setName(String newName) {
